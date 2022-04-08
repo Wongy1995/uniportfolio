@@ -1,0 +1,19 @@
+h1{
+    font-size: 40px;
+    color: red;
+}
+button {
+    transition-duration: 0.5s;
+}
+button:hover {
+    background-color: red;
+    color: black;
+}
+button{
+    size: 2px;
+    padding: 2px;
+}
+
+a {
+    text-decoration: none;
+}
